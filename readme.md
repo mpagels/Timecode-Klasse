@@ -1,1 +1,1 @@
-Litte webapp to add clip timecodes together.
+Webapp to add clip timecodes together.
