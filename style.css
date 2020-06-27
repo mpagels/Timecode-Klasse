@@ -49,3 +49,14 @@ body {
 #in_ot:focus {
   box-shadow: 0px 0px 5px 1px black;
 }
+
+.legende {
+  margin-top: 10px;
+  padding: 15px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  background-color: #abbbca;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
